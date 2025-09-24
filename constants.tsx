@@ -37,7 +37,7 @@ export const EDUCATION_DATA: Education[] = [
         period: "August 2022 - Present",
         details: [
             "Lyle School of Engineering",
-            "Relevant Courses: Data Structures, Computer Science (Java & C++), Linear Algebra, Machine Learning, Ethics in Computing.",
+            "Relevant Courses: Data Structures, Computer Science (Java & C++), Linear Algebra, Machine Learning, Accounting, Finance, Ethics in Computing, Negotiations, Data Science, Social Corporate Responsibility, Operating Systems, Databases, and Computer System Security.",
             "Member of Beta Theta Pi Fraternity",
         ]
     },
