@@ -2,7 +2,7 @@ import React from 'react';
 import type { Skill, Experience, Project, Education, Interest } from './types';
 
 // Total scrollable height of the page. Adjust this to add more space.
-export const TOTAL_SCROLL_HEIGHT = 12000;
+export const TOTAL_SCROLL_HEIGHT = 10000;
 
 // --- RESUME DATA ---
 
